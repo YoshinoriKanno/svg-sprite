@@ -1,0 +1,23 @@
+{
+  "name": "svg-sprite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "svg-sprite": "svg-sprite -C config.json svg/*svg"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YoshinoriKanno/svg-sprite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YoshinoriKanno/svg-sprite/issues"
+  },
+  "homepage": "https://github.com/YoshinoriKanno/svg-sprite#readme",
+  "dependencies": {
+    "svg-sprite": "^1.5.4"
+  }
+}
